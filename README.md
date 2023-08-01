@@ -1,2 +1,3 @@
 # QR_Code_Generator
-Enter a URL address and wait for the magic to happen! End result...a QR code to the address!
+Enter a URL address and wait for the magic to happen! End result...a QR code to the URL!
+Made with Node.js
